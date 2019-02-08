@@ -1,0 +1,36 @@
+5
+A
+a
+2 3 0
+6 0 0
+1472024004
+Has ganado una partida por abandono contra B el 2016/08/23 
+_X_X_X_
+B
+b
+2 -1 1
+9 1 0
+1472024004
+Has perdido la partida contra A a fecha de 2016/08/23(18;39:22) 
+_X_X_X_
+C
+c
+0 -2 1
+1 2 0
+1472024004
+Ha ganado por abandono una partida contra G el 2016/03/16. Has ganado una partida por abandono contra B el 2016/08/23 
+_X_X_X_
+F
+f
+0 0 1
+0 0 0
+1472024004
+
+_X_X_X_
+G
+g
+0 2 0
+2 0 0
+1472024004
+
+_X_X_X_
